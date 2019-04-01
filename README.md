@@ -1,18 +1,44 @@
 # FECS
 前端代码参考规范，由罗汉果前端团队修订及推荐  
 
-| 当前版本 | V1.0 beta |
-| ------ | ------ |
-| 规范发起 | [大猫](https://github.com/TimChueh) |
-| 参与人群 | [罗汉果前端团队](https://github.com/Momordicae) |
-| 最后更新时间 | 2019.03.28 |
-
+<table>
+    <tr>
+        <td width="15%">当前版本</td>
+        <td width="85%">v1.0</td>
+    </tr>
+    <tr>
+        <td>规范发起</td>
+        <td>
+            <a href="https://github.com/TimChueh" target="_blank">大猫</a>
+        </td>
+    </tr>
+    <tr>
+        <td>参与人群</td>
+        <td>
+            <a href="https://github.com/Momordicae" target="_blank">罗汉果前端团队</a>
+        </td>
+    </tr>
+    <tr>
+        <td>最后更新时间</td>
+        <td>2019.03.29</td>
+    </tr>
+</table>
 
 ## 说明
-一个好的规范可以规范成员开发行为，提高团队协作效率，降低维护成本，基于此目的，罗汉果前端团队推出此推荐规范，各团队可在此基础上根据自身情况进行修订
+一个好的规范可以规范成员开发行为，提高团队协作效率，降低维护成本，基于此目的，罗汉果前端团队推出此推荐规范，各团队可在此基础上根据自身情况进行修订
 
 ## 目录
-|-- [命名及项目结构](./project.md)  
-|-- [HTML](./html.md)  
-|-- [CSS](./css.md)  
-|-- [JavaScript](./js.md)  
+<div>
+    <p style="margin-bottom:10px;padding:10px;background:#f6f8fa;border-radius:5px;">
+        <a href="./project.md" target="_blank">命名及项目结构</a>
+    </p>
+    <p style="margin-bottom:10px;padding:10px;background:#f6f8fa;border-radius:5px;">
+        <a href="./html.md" target="_blank">HTML</a>
+    </p>
+    <p style="margin-bottom:10px;padding:10px;background:#f6f8fa;border-radius:5px;">
+        <a href="/css.md" target="_blank">CSS</a>
+    </p>
+    <p style="padding:10px;background:#f6f8fa;border-radius:5px;">
+        <a href="./js.md" target="_blank">JavaScript</a>
+    </p>
+</div>
