@@ -36,16 +36,39 @@ this.$table = $('table', this.$element);
 
 常常把文件的关键信息放在第2种注释内容里，@key desc格式来书写，常用的关键词有：
 
-| 关键词 | 描述 |
-| ------ | ------ |
-| @auhor | 作者 |
-| @param | 参数 |
-| @example | 示例 |
-| @link | 链接 |
-| @namespace | 命名空间 |
-| @auhor | 依赖模块 |
-| @return | 返回值 |
-| @version | 版本号 |
+<table>
+    <thead>
+      <tr>
+          <th width="15%">关键词</th><th width="85%">描述</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+          <td>@auhor</td><td>作者</td>
+      </tr>
+      <tr>
+          <td>@param</td><td>参数</td>
+      </tr>
+      <tr>
+          <td>@example</td><td>示例</td>
+      </tr>
+      <tr>
+          <td>@link</td><td>链接</td>
+      </tr>
+      <tr>
+          <td>@namespace</td><td>命名空间</td>
+      </tr>
+      <tr>
+          <td>@requires</td><td>依赖模块</td>
+      </tr>
+      <tr>
+          <td>@return</td><td>返回值</td>
+      </tr>
+      <tr>
+          <td>@version</td><td>版本号</td>
+      </tr>
+    </tbody>
+</table>
 
 其中，param关键词的格式为：
 ```
