@@ -34,7 +34,7 @@ this.$table = $('table', this.$element);
  */
 ```
 
-常常把文件的关键信息放在第2种注释内容里，@key desc格式来书写，常用的关键词有：
+常常把文件的关键信息放在第2种注释内容里，@key desc格式来书写，常用的关键词有：
 
 <table>
     <thead>

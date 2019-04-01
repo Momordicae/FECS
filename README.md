@@ -28,17 +28,7 @@
 一个好的规范可以规范成员开发行为，提高团队协作效率，降低维护成本，基于此目的，罗汉果前端团队推出此推荐规范，各团队可在此基础上根据自身情况进行修订
 
 ## 目录
-<div>
-    <p style="margin-bottom:10px;padding:10px;background:#f6f8fa;border-radius:5px;">
-        <a href="./project.md" target="_blank">命名及项目结构</a>
-    </p>
-    <p style="margin-bottom:10px;padding:10px;background:#f6f8fa;border-radius:5px;">
-        <a href="./html.md" target="_blank">HTML</a>
-    </p>
-    <p style="margin-bottom:10px;padding:10px;background:#f6f8fa;border-radius:5px;">
-        <a href="/css.md" target="_blank">CSS</a>
-    </p>
-    <p style="padding:10px;background:#f6f8fa;border-radius:5px;">
-        <a href="./js.md" target="_blank">JavaScript</a>
-    </p>
-</div>
+[命名及项目结构](./project.md)  
+[HTML](./html.md)  
+[CSS](/css.md)  
+[JavaScript](./js.md)  
